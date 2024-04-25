@@ -1,13 +1,33 @@
 <resources>
     <string name="app_name">Loja Digital</string>
+
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Moraes Moda Masculino</string>
+    <string name="nav_header_subtitle">Expecializada em Social Fino</string>
     <string name="nav_header_desc">Navigation header</string>
+    <string name="action_loja">Loja</string>
+    <string name="action_carrinho">Carrinho</string>
+    <string name="action_ofertas">Ofertas</string>
+    <string name="action_monte_seu_avatar">Monte seu Avatar</string>
+    <string name="action_acesso_restrito">Acesso Restrito</string>
+    <string name="action_localizar_pedidos">Localizar Pedido</string>
+    <string name="action_sair">Sair</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    // string que referece ao menu direito
+    <string name="menu_carrinho">Carrinho</string>
+    <string name="menu_avatar">Monte seu Avatar</string>
+    <string name="menu_pedido">Pedido</string>
+    <string name="menu_localizar_pedido">Localizar Pedido</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_sair">Sair</string>
+
+    // string que referece ao menu esquerdo
+    <string name="menu_home">Loja</string>
+    <string name="menu_gallery">Galeria de Fotos</string>
+    <string name="menu_slideshow">Apresentação</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
