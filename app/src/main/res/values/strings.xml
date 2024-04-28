@@ -1,19 +1,19 @@
 <resources>
     <string name="app_name">Moraes Moda</string>
 
+    <string name="action_acesso_restrito">Acesso Restrito</string>
     <string name="navigation_drawer_open">Abra gaveta de navegação</string>
     <string name="navigation_drawer_close">Fechar gaveta de navegação</string>
     <string name="nav_header_title">Moraes Moda Masculino</string>
     <string name="nav_header_subtitle">Expecializada em Social Fino</string>
     <string name="nav_header_desc">Início de Navegaçõa</string>
-    <string name="action_loja">Loja</string>
-    <string name="action_carrinho">Carrinho</string>
+    <string name="action_loja">Loja Digital</string>
+    <string name="action_carrinho">Carrinho compras</string>
     <string name="action_ofertas">Ofertas</string>
     <string name="action_monte_seu_avatar">Monte seu Avatar</string>
-    <string name="action_acesso_restrito">Acesso Restrito</string>
     <string name="action_localizar_pedidos">Localizar Pedido</string>
     <string name="action_sair">Sair deslogar</string>
-    <string name="action_settings">Defenir Configurações</string>
+    <string name="action_settings">Personalizar Configurações</string>
 
     // string que referenica ao menu direito
     <string name="menu_carrinho">Carrinho</string>
